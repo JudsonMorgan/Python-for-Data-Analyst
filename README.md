@@ -1,1 +1,1 @@
-A Roadmap to becoming a Python Data Analyst.
+A Roadmap to becoming a Python Data Analyst. This repository consists of a guide towards learning data analyst using the Python programming language.

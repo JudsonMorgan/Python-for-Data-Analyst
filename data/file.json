@@ -1,0 +1,32 @@
+ {
+    "employees": {
+        [
+            {
+                "first_name" : "Michael",
+                "last_name" : "Johnson",
+                "Gender" : "Male",
+                "Age" : 24,
+                "Position" : "Project Manager",
+                "Marital_status" : "Single"
+            },
+            {
+                "first_name" : "Kalu",
+                "last_name" : "Godwin",
+                "Gender" : "Male",
+                "Age" : 23,
+                "Position" : "Software Engineer",
+                "Marital_status" : "Single"
+            },
+            
+            {
+                "first_name" : "Magret",
+                "last_name" : "James",
+                "Gender" : "Female",
+                "Age" : 23,
+                "Position" : "Marketer",
+                "Marital_status" : "Single"
+            }
+        ]
+    }
+
+}

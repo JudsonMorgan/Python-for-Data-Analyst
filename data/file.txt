@@ -1,0 +1,2 @@
+This is a simple text file to illustrate the python file handling operation.This file has more contents added to it.
+\ This is a new line.
